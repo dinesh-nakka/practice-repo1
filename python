@@ -1,4 +1,4 @@
 num1 = 10                 #dev1
-num2 = 5                  #dev1
-sum = num1 + num2         #dev1
+num2 = 4                  #dev2
+sum = num1 - num2         #dev1
 print("The sum is:", sum) #dev1
